@@ -58,7 +58,8 @@ Enter 'y' for yes or 'q' to quit and view results: q
 A histogram window appears, and results are displayed and saved.
 
 ## File Structure
-- `progression_outcome.py` - Main program file.
+- `python progression_outcome.py` - Main program file.
+- `graphics.py` - Graphics.py to display the outcome in Histogram
 - `CWText.txt` - Stores saved progression results.
 
 ## Author
